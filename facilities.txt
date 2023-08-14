@@ -1,0 +1,5 @@
+Ambulance
+Admit Facility
+Canteen
+Emergency
+ronit
